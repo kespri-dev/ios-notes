@@ -8,6 +8,7 @@ Notes about iOS documentations and links
 ## CI
 
 [Delivery an app all the day in TestFlight](https://medium.com/ryfacto/https-medium-com-ryfacto-livrer-une-app-ios-tous-les-jours-des-le-premier-jour-2e6f3c9f2067)
+[Monitoring](https://monitoror.com)
 
 ## Books
 
